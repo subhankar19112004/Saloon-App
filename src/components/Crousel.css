@@ -1,0 +1,5 @@
+.carousel .slide img {
+    height: 400px; /* Adjust height */
+    object-fit: cover; /* Ensure images fit nicely */
+  }
+  
